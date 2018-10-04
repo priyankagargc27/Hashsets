@@ -8,6 +8,7 @@ namespace sets
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HashSet exercise in CSharp");
 HashSet<string> showroom = new HashSet<string>();
 showroom.Add("Lexus-rx350");
 showroom.Add("BMW-530");
